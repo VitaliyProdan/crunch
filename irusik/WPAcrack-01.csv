@@ -1,0 +1,8 @@
+
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+88:53:D4:E0:C5:C4, 2017-01-08 19:18:07, 2017-01-08 19:27:45,  1,  54, WPA, CCMP,PSK, -75,     4481,       98,   0.  0.  0.  0,   6, irusik, 
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+54:EF:92:92:7B:BB, 2017-01-08 19:18:12, 2017-01-08 19:18:29, -73,        3, 88:53:D4:E0:C5:C4,
+54:EF:92:69:71:F1, 2017-01-08 19:18:09, 2017-01-08 19:27:45, -77,      227, 88:53:D4:E0:C5:C4,
+
